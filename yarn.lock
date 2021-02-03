@@ -704,9 +704,9 @@
     source-map-support "^0.5.16"
 
 "@babel/runtime@^7.0.0", "@babel/runtime@^7.6.2", "@babel/runtime@^7.8.4":
-  version "7.9.2"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.9.2.tgz#d90df0583a3a252f09aaa619665367bae518db06"
-  integrity sha512-NE2DtOdufG7R5vnfQUTehdTfNycfUANEtCa9PssN9O/xmTzP4E08UI797ixaei6hBEVL9BI/PsdJS5x7mWoB9Q==
+  version "7.12.13"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.12.13.tgz#0a21452352b02542db0ffb928ac2d3ca7cb6d66d"
+  integrity sha512-8+3UMPBrjFa/6TtKi/7sehPKqfAm4g6K+YQjyyFOLUTxzOngcRZTlAVY8sc2CORJYqdHQY8gRPHmn+qo15rCBw==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -1151,11 +1151,6 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/masked-view/-/masked-view-0.1.9.tgz#383aca2fb053e3e14405c99cce2d5805df730821"
   integrity sha512-nUtzbiLeXU0K9oVed6rc/WVrjGJwDSL4q1RTDkpZYU4j0FeovfuzcNUIDesD2r728LYfIop+uAgQdm+6qBOCug==
 
-"@react-native-community/picker@^1.3.0":
-  version "1.3.0"
-  resolved "https://registry.npm.taobao.org/@react-native-community/picker/download/@react-native-community/picker-1.3.0.tgz#74be7dd93c54426677ddd68080ca253906a57e07"
-  integrity sha1-dL592TxUQmZ33daAgMolOQalfgc=
-
 "@react-native-community/segmented-control@^1.4.0":
   version "1.4.0"
   resolved "https://registry.npm.taobao.org/@react-native-community/segmented-control/download/@react-native-community/segmented-control-1.4.0.tgz#16e449c76b2ea85784bc89cad2604a0bd5c42b42"
@@ -1170,6 +1165,11 @@
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/viewpager/-/viewpager-3.3.0.tgz#e613747a43a31a6f3278f817ba96fdaaa7941f23"
   integrity sha512-tyzh79l4t/hxiyS9QD3LRmWMs8KVkZzjrkQ8U8+8To1wmvVCBtp8BenvNsDLTBO7CpO/YmiThpmIdEZMr1WuVw==
+
+"@react-native-picker/picker@^1.9.10":
+  version "1.9.10"
+  resolved "https://registry.yarnpkg.com/@react-native-picker/picker/-/picker-1.9.10.tgz#c0d445453e91077cc85a3f0a6d0074d44d21e438"
+  integrity sha512-g0C0RLjXXGE4UfmGxNtAOY3LE5Epz8+ck/rB1oErJowskIIG83U6LVqH9oFrx1Hq1k/lbVQGgabURlE0QQ1MHA==
 
 "@react-navigation/core@^5.3.4":
   version "5.3.4"
